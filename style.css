@@ -16,7 +16,7 @@ img{
     margin-left: 660px;
 }
 body{
-    background-image: linear-gradient(rgb(218, 218, 218) ,rgb(181, 178, 216),rgb(255, 255, 255));
+    background-image: linear-gradient( rgb(178, 174, 220),rgba(194, 194, 194, 0.848),rgb(178, 174, 220));
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -25,6 +25,7 @@ body{
 }
 table{
     margin-left: 390px;
+    border-color: black;
 }
 mark{
     color: #3e76e7;
