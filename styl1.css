@@ -1,0 +1,18 @@
+img{
+    min-height: auto;
+    max-height: 500px;
+    border-radius: 20px;
+    border-color: rgb(223, 46, 46);
+    border: 5px solid rgb(89, 82, 228);
+    margin-left: 660px;
+}
+body{
+    background-image: linear-gradient(rgb(218, 218, 218) ,rgb(163, 160, 189),rgb(255, 255, 255));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    color: #3089e8;
+}
